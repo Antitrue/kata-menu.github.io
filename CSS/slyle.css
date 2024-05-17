@@ -129,7 +129,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 32px;
-  margin-bottom: 208px;
+  margin-bottom: 220px;
 }
 
 .main__link {
